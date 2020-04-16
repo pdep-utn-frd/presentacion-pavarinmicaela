@@ -5,3 +5,6 @@
 ---
 - *Número de legajo*: 10934
 - *Edad*: 20 años
+
+
+Me encuentro actualmente cursando segundo año de la carrera en la Facultad Regional Delta. Vivo en la ciudad de Zárate con mi hermana y mis padres; me gusta tocar el piano, la gimnasia artística y la natación. Actualmente estoy estudiando el idioma alemán y realizando un curso online para ampliar mis conocimientos sobre diversos temas tratados en la carrera; además, en mi tiempo libre, disfruto de leer libros e informarme sobre la economía.
